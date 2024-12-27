@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garvit Trivedi</h1>
-<h3 align="center">🚀 Aspiring Software Developer | 1nd Year BTech CSE Student 👨‍💻 Hi, I’m a passionate Computer Science Engineering student, always exploring new ways to blend technology and design. From building sleek websites with HTML, CSS, and JavaScript to learning C programming and React, I’m all about continuous growth and innovation! 💻✨</h3>
+<h3 align="center">🚀 Aspiring Software Developer | 1nd Year BTech CSE Student 👨‍💻 Hi, I’m a passionate Computer Science Engineering student, always exploring new ways to blend technology and design. From building sleek websites with HTML, CSS, C programming and JavaScript to learning C++ and React, I’m all about continuous growth and innovation! 💻✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvit-trivedi&label=Profile%20views&color=0e75b6&style=flat" alt="garvit-trivedi" /> </p>
 
